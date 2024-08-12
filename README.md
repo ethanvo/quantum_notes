@@ -1,6 +1,8 @@
 # quantum_notes
 
 Linear algebra basics
+  
+  Einstein summation notation
 
   Krylov Subspace Methods
 
@@ -9,6 +11,8 @@ Linear algebra basics
   Davidson's Method
 
   Biorthogonal Linear Solvers
+
+  Covariance and Contravariance
 
 Mean Field Methods
 
