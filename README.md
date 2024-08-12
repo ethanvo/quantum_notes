@@ -20,6 +20,7 @@ Post Hartree-Fock Methods
     MP2 Density Matrix
 
   Coupled Cluster
+    Spin-summation
     CC2
 
 Excited State Methods
@@ -27,3 +28,6 @@ Excited State Methods
   P-EOM-MP2
 
   EOM-CCSD
+
+Periodic Boundary Conditions
+  Translational symmetry
